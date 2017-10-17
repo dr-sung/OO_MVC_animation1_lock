@@ -9,7 +9,7 @@ import model.SharedData;
 
 public class ButtonListener implements ActionListener {
     
-    private final int BOXES_TO_ADD = 50000;
+    private final int BOXES_TO_ADD = 5000;
 
     @Override
     public void actionPerformed(ActionEvent e) {
